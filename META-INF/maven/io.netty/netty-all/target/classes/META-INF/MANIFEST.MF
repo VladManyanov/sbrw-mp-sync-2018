@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Netty/All-in-One
+Implementation-Version: 4.1.13.Final
+Built-By: Vlad
+Implementation-Vendor-Id: io.netty
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://netty.io/netty-all/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: The Netty Project
+
